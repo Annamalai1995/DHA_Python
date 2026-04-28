@@ -21,6 +21,4 @@ Average+=10
 Average+=20
 
 
-
-
 print("Average",Average)
