@@ -46,7 +46,7 @@
 hire =5
 while hire > 0:
     skills=input("enter the skills")
-    project=int(input("How manu Project Do you have"))
+    project=int(input("How many Project Do you have"))
     if (skills == 'python' or skills == 'java') and project >5:
         print("You are Hired" )
         hire-=1
