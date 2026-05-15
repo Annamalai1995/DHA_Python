@@ -18,7 +18,7 @@
 
 bio={"Name":"Annamalai","Age":25,"Native":"salem"}
 print(bio)
-#clearMEtho
+#clearMEthod
 bio.clear()
 print(bio)
 print(bio)
