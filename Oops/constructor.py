@@ -15,7 +15,7 @@
 #ACCOUNT
 class Account:
     #constrcutor
-    
+
     def __init__(self,name="",num=0,bal=0.0):
         print("Constructor called")
         self.__holder=name
