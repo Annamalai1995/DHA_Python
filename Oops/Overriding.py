@@ -28,5 +28,5 @@ class Aishwarya(Aswathi):
         super().name()
         print("Aishwarya cluny")        
 A=Aishwarya()
-A.name()  
+dA.name()  
 #A.name()      
