@@ -1,0 +1,10 @@
+asmitha=open("./bio.doc",'a')
+print("File created ",asmitha.name)
+asmitha.write("Asmitha is the Good Girl")
+#print(asmitha.())
+print(asmitha.writable())
+print(asmitha.readable())
+print(asmitha.mode)
+asmitha.write("My 12 th mark is 534")
+print("Append Successfullyy")
+# asmitha.close
